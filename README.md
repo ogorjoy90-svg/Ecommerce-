@@ -43,6 +43,10 @@ The Power BI dashboard includes:
 - User engagement metrics
 - Top customers by purchase count
 
+**Data Source**
+E-commerce Customer behavior
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
 **🚀 Summary**
 
 This project demonstrates practical data analysis across multiple tools, focusing on understanding how customers behave on an e-commerce platform. It combines SQL logic, Excel manipulation, and interactive visualisation to generate insights that support decision-making.
