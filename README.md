@@ -49,7 +49,7 @@ This project analyses e-commerce transaction data to understand **customer purch
 ![Sales Trend](E1.png)  
 *Monthly sales trend across the platform.*
 
-![Customer Behaviour](images/customer_behaviour.png)  
+![Customer Behaviour](E2.png)  
 *Customer purchase frequency and engagement patterns.*
 
 ---
