@@ -1,52 +1,82 @@
 # Ecommerce-
-** E-Commerce Dataset Analysis**
+*# E-commerce Sales & Customer Behaviour Analysis
 
-This project explores an e-commerce behavioural dataset using **Excel**, **SQLite**, and **Power BI**. The aim is to understand customer interactions, purchase behaviour, brand performance, and product popularity across the platform.
+![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=ogorjoy90-svg)
 
-**📌 Key Analysis Questions**
+---
 
-- **Which event type occurs the most in the dataset?**
-- **How many total purchases were recorded?**
-- **Which category records the highest total number of purchases?**
-- **Which category is the most frequently**
+### **Project Overview**
+This project analyses e-commerce transaction data to understand **customer purchasing behaviour, product performance, and overall sales trends**.
 
-**viewed but rarely purchased?**
+**Dataset:** Transactions from an online e-commerce platform, including product categories, customer activity, and purchase history.
 
-- **What is the least popular category?**
-- **Which brand has the highest number of products?**
-- **Which brand has the highest purchase record?**
-- **What is the distribution of events per user?**
-- **Who are the top ten purchasing customers?**
-- **Who made the highest purchase?**
+**Goal:** Identify top-selling products, customer engagement patterns, and opportunities to optimise marketing, inventory, and sales strategy.
 
-**🧰 Tools Used**
+---
 
-- **Excel** - Data cleaning, exploration, Pivot Tables
-- **SQLite** - SQL querying and deeper analytical operations
-- **Power BI** - Data modelling and interactive dashboard visualisation
+### **Tools & Technologies**
+- **Power BI** – Dashboard creation & visualisation  
+- **DAX** – Measures and calculated insights  
+- **Excel / CSV** – Data cleaning and preparation  
+- **SQL** – Data querying and aggregation  
+- **Git & GitHub** – Version control and project hosting  
 
+---
 
-**📝 SQL & Excel Highlights**
+### **Analysis Approach**
+1. **Data Cleaning & Preparation**  
+   - Checked for missing or inconsistent values  
+   - Standardized product categories and timestamps  
 
-- Cleaned and transformed raw data
-- Performed grouping, aggregation, and filtering
-- Used SQL window functions for ranking and customer-level analysis
-- Built visual dashboards to showcase purchasing trends and behaviour
+2. **Exploratory Data Analysis (EDA)**  
+   - Analysed total sales, number of orders, and revenue by product category  
+   - Examined customer buying frequency and engagement patterns  
+   - Aggregated sales by month and week for trend analysis  
 
-**📈 Power BI Dashboard Overview**
+3. **Visualisation**  
+   - Bar charts for top-selling products  
+   - Line charts for sales trends over time  
+   - Pie charts for product category distribution  
+   - Heatmaps for customer purchase behaviour  
 
-The Power BI dashboard includes:
+4. **Error Correction & Validation**  
+   - Cross-checked totals, averages, and chart calculations  
+   - Refined metrics to ensure accurate insights  
 
-- Event type distribution
-- Top categories and brands
-- Purchase patterns
-- User engagement metrics
-- Top customers by purchase count
+---
 
-**Data Source**
-E-commerce Customer behavior
-https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+### **Visuals / Screenshots**
+![Sales Trend](images/sales_trend.png)  
+*Monthly sales trend across the platform.*
 
-**🚀 Summary**
+![Customer Behaviour](images/customer_behaviour.png)  
+*Customer purchase frequency and engagement patterns.*
 
-This project demonstrates practical data analysis across multiple tools, focusing on understanding how customers behave on an e-commerce platform. It combines SQL logic, Excel manipulation, and interactive visualisation to generate insights that support decision-making.
+---
+
+### **Key Insights**
+- Certain products consistently dominate sales across months.  
+- Customer purchase behaviour shows clear patterns in repeat buying and peak order times.  
+- Insights highlight opportunities for marketing campaigns and inventory optimisation.  
+- Data reveals product categories with low sales for targeted improvement.
+
+---
+
+### **Impact / Learning**
+- Strengthened skills in multi-level data aggregation and pattern recognition.  
+- Learned to combine sales and customer data for actionable business insights.  
+- Reinforced best practices for visual storytelling in dashboards.  
+- Developed patience and accuracy through iterative error correction and validation.
+
+---
+
+### **How to View / Run**
+1. Download the `.pbix` file from this repository.  
+2. Open it in **Power BI Desktop** to explore the dashboards.  
+3. Interact with charts and filters to view top products, sales trends, and customer behaviour metrics.
+
+---
+
+### **Connect / Contact**
+- GitHub: https://github.com/ogorjoy90-svg  
+- LinkedIn: https://www.linkedin.com/in/joy-iheanyi-ogor-689886268
